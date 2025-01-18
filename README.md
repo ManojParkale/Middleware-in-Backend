@@ -1,5 +1,5 @@
 <h2 align="center">
-QR-Generator-Backend <br/>
+Middleware-in-Node.js <br/>
 </h2>
 
 <br/>
