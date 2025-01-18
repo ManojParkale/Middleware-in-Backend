@@ -8,21 +8,21 @@ Middleware-in-Backend <br/>
  
 [![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com) &nbsp;
 [![Made with Node.js](https://img.shields.io/badge/Made_with-Node.js-green)](https://nodejs.org) &nbsp;
-![GitHub Repo stars](https://img.shields.io/github/stars/ManojParkale/Middleware-in-Node.js?color=red&logo=github&style=for-the-badge) &nbsp;
-![GitHub forks](https://img.shields.io/github/forks/ManojParkale/Middleware-in-Node.js?color=red&logo=github&style=for-the-badge)
+![GitHub Repo stars](https://img.shields.io/github/stars/ManojParkale/Middleware-in-Backend?color=red&logo=github&style=for-the-badge) &nbsp;
+![GitHub forks](https://img.shields.io/github/forks/ManojParkale/Middleware-in-Backend?color=red&logo=github&style=for-the-badge)
 
 </center>
 
 <h3 align="center">
     🔹
-    <a href="https://github.com/ManojParkale/Middleware-in-Node.js/issues">Report Bug</a> &nbsp; &nbsp;
+    <a href="https://github.com/ManojParkale/Middleware-in-Backend/issues">Report Bug</a> &nbsp; &nbsp;
     🔹
-    <a href="https://github.com/ManojParkale/Middleware-in-Node.js/issues">Request Feature</a>
+    <a href="https://github.com/ManojParkale/Middleware-in-Backend/issues">Request Feature</a>
 </h3>
 
 ## TL;DR
 
-You can fork this repo to modify and make changes of your own. Please give me proper credit by linking back to [ManojParkale](https://github.com/ManojParkale/Middleware-in-Node.js). Thanks!
+You can fork this repo to modify and make changes of your own. Please give me proper credit by linking back to [ManojParkale](https://github.com/ManojParkale/Middleware-in-Backend). Thanks!
 <br/>
 
 ## Description:
@@ -32,6 +32,7 @@ A Node.js app using Express middleware to process form data and generate a custo
 
 - JavaScript
 - Node.js
+- Express.js
 - VsCode
 
 The page will reload if you make edits.
