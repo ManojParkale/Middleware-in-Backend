@@ -26,8 +26,7 @@ You can fork this repo to modify and make changes of your own. Please give me pr
 <br/>
 
 ## Description:
-This Node.js project prompts the user for a URL, generates a QR code using the `qr-image` package, and saves it as a PNG file (`qr_img.png`). Additionally, the URL is stored in a text file (`URL.txt`). It uses `inquirer` for user input and `fs` for file operations.
-  
+A Node.js app using Express middleware to process form data and generate a custom band name. Built with body-parser for parsing and custom logic for name creation. Simple, fun, and easy to use!
 
 ## Built With
 
